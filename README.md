@@ -6,7 +6,7 @@ A [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression) experim
 **Start: 2015**
 
 ## Why
-I was trying to explain 'regular expression' to a collegue. In the meantime I built this tool to allow him to start composing some basic patterns.
+I was trying to explain 'regular expression' to a colleague. In the meantime I built this tool to allow him to start composing some basic patterns.
 
 ## Example
 A pattern to identify an email address composed by a name, a dot, another name and "@gmail.com":
